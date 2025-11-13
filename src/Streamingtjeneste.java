@@ -32,7 +32,6 @@ public void createMovies() {
 
        }
 
-
     }
 
     public void searchByGenre(String genre){
